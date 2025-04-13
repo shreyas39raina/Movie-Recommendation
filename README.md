@@ -44,7 +44,7 @@ The dataset is a cleaned version of the combined TMDB 5000 movie metadata.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/movie-recommendation-system.git
+   git clone https://github.com/shreyas39raina/movie-recommendation-system.git
    cd movie-recommendation-system
 2. Launch Jupyter Notebook:
 ```bash
